@@ -1,0 +1,70 @@
+/* Geometric Element (Left) */
+
+position: absolute;
+width: 896px;
+height: 904px;
+left: -267px;
+top: -276px;
+
+
+
+/* Line 18 */
+
+position: absolute;
+width: 855.6px;
+height: 0px;
+left: 9px;
+top: -36px;
+
+border: 1px solid #585858;
+transform: rotate(45deg);
+
+
+/* Line 16 */
+
+position: absolute;
+width: 889.54px;
+height: 0px;
+left: 0px;
+top: -1px;
+
+border: 1px solid #585858;
+transform: rotate(45deg);
+
+
+/* Line 17 */
+
+position: absolute;
+width: 827.31px;
+height: 0px;
+left: -20px;
+top: 19px;
+
+border: 1px solid #585858;
+transform: rotate(45deg);
+
+
+/* Ellipse 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 800px;
+height: 800px;
+left: -267px;
+top: -276px;
+
+border: 1px solid #585858;
+
+
+/* Ellipse 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 700px;
+height: 700px;
+left: -205px;
+top: -204px;
+
+border: 1px solid #585858;

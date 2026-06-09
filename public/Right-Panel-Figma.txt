@@ -1,0 +1,578 @@
+/* Right-Panel */
+
+position: absolute;
+width: 243px;
+height: 496px;
+left: 1095px;
+top: 294px;
+
+
+
+/* Frame 6 */
+
+position: absolute;
+width: 243px;
+height: 496px;
+left: 1095px;
+top: 294px;
+
+
+
+/* Current Obsession */
+
+position: absolute;
+width: 243px;
+height: 134px;
+left: 1095px;
+top: 656px;
+
+
+
+/* Line 8 */
+
+position: absolute;
+width: 243px;
+height: 0px;
+left: 1095px;
+top: 790px;
+
+border: 2px solid #D1C6A8;
+
+
+/* Current Obsession Header */
+
+position: absolute;
+width: 243px;
+height: 34px;
+left: 1095px;
+top: 656px;
+
+
+
+/* Line 13 */
+
+position: absolute;
+width: 243px;
+height: 0px;
+left: 1095px;
+top: 656px;
+
+border: 2px solid #D1C6A8;
+
+
+/* Line 14 */
+
+position: absolute;
+width: 243px;
+height: 0px;
+left: 1095px;
+top: 690px;
+
+border: 2px solid #D1C6A8;
+
+
+/* CURRENT OBSESSION */
+
+position: absolute;
+width: 164px;
+height: 21px;
+left: 1095px;
+top: 662px;
+
+font-family: 'Geist Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+
+color: #D1C6A8;
+
+
+
+/* Status  */
+
+position: absolute;
+width: 243px;
+height: 146px;
+left: 1095px;
+top: 294px;
+
+
+
+/* Status Header */
+
+position: absolute;
+width: 243px;
+height: 34px;
+left: 1095px;
+top: 294px;
+
+
+
+/* Line 5 */
+
+position: absolute;
+width: 243px;
+height: 0px;
+left: 1095px;
+top: 294px;
+
+border: 2px solid #D1C6A8;
+
+
+/* Line 7 */
+
+position: absolute;
+width: 243px;
+height: 0px;
+left: 1095px;
+top: 328px;
+
+border: 2px solid #D1C6A8;
+
+
+/* STATUS */
+
+position: absolute;
+width: 58px;
+height: 21px;
+left: 1095px;
+top: 300px;
+
+font-family: 'Geist Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+
+color: #D1C6A8;
+
+
+
+/* Status Data */
+
+position: absolute;
+width: 243px;
+height: 100px;
+left: 1095px;
+top: 340px;
+
+
+
+/* Allura */
+
+position: absolute;
+width: 44px;
+height: 16px;
+left: 1294px;
+top: 340px;
+
+font-family: 'Geist Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* LEVEL */
+
+position: absolute;
+width: 36px;
+height: 16px;
+left: 1095px;
+top: 368px;
+
+font-family: 'Geist Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* MBTI */
+
+position: absolute;
+width: 29px;
+height: 16px;
+left: 1095px;
+top: 396px;
+
+font-family: 'Geist Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* INFJ-T */
+
+position: absolute;
+width: 44px;
+height: 16px;
+left: 1294px;
+top: 396px;
+
+font-family: 'Geist Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* MODEL DESIGNATION */
+
+position: absolute;
+width: 123px;
+height: 16px;
+left: 1095px;
+top: 340px;
+
+font-family: 'Geist Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* 21 */
+
+position: absolute;
+width: 15px;
+height: 16px;
+left: 1323px;
+top: 368px;
+
+font-family: 'Geist Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* CLASS */
+
+position: absolute;
+width: 36px;
+height: 16px;
+left: 1095px;
+top: 424px;
+
+font-family: 'Geist Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Generalist */
+
+position: absolute;
+width: 72px;
+height: 16px;
+left: 1266px;
+top: 424px;
+
+font-family: 'Geist Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Equipped */
+
+position: absolute;
+width: 243px;
+height: 118px;
+left: 1095px;
+top: 452px;
+
+
+
+/* Equipped Header */
+
+position: absolute;
+width: 243px;
+height: 34px;
+left: 1095px;
+top: 452px;
+
+
+
+/* Line 9 */
+
+position: absolute;
+width: 243px;
+height: 0px;
+left: 1095px;
+top: 452px;
+
+border: 2px solid #D1C6A8;
+
+
+/* Line 10 */
+
+position: absolute;
+width: 243px;
+height: 0px;
+left: 1095px;
+top: 486px;
+
+border: 2px solid #D1C6A8;
+
+
+/* EQUIPPED */
+
+position: absolute;
+width: 77px;
+height: 21px;
+left: 1095px;
+top: 458px;
+
+font-family: 'Geist Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+
+color: #D1C6A8;
+
+
+
+/* Equipped Content */
+
+position: absolute;
+width: 243px;
+height: 72px;
+left: 1095px;
+top: 498px;
+
+
+
+/* PRIMARY */
+
+position: absolute;
+width: 51px;
+height: 16px;
+left: 1095px;
+top: 498px;
+
+font-family: 'Geist Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* SECONDARY */
+
+position: absolute;
+width: 65px;
+height: 16px;
+left: 1095px;
+top: 526px;
+
+font-family: 'Geist Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* RUNTIME */
+
+position: absolute;
+width: 51px;
+height: 16px;
+left: 1095px;
+top: 554px;
+
+font-family: 'Geist Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Figma */
+
+position: absolute;
+width: 36px;
+height: 16px;
+left: 1302px;
+top: 498px;
+
+font-family: 'Geist Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Cursor */
+
+position: absolute;
+width: 44px;
+height: 16px;
+left: 1294px;
+top: 526px;
+
+font-family: 'Geist Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Next.js / Tailwind */
+
+position: absolute;
+width: 130px;
+height: 16px;
+left: 1208px;
+top: 554px;
+
+font-family: 'Geist Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Weaknesses */
+
+position: absolute;
+width: 243px;
+height: 62px;
+left: 1095px;
+top: 582px;
+
+
+
+/* Weakness Header */
+
+position: absolute;
+width: 243px;
+height: 34px;
+left: 1095px;
+top: 582px;
+
+
+
+/* Line 11 */
+
+position: absolute;
+width: 243px;
+height: 0px;
+left: 1095px;
+top: 582px;
+
+border: 2px solid #D1C6A8;
+
+
+/* Line 12 */
+
+position: absolute;
+width: 243px;
+height: 0px;
+left: 1095px;
+top: 616px;
+
+border: 2px solid #D1C6A8;
+
+
+/* WEAKNESS */
+
+position: absolute;
+width: 77px;
+height: 21px;
+left: 1095px;
+top: 588px;
+
+font-family: 'Geist Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+
+color: #D1C6A8;
+
+
+
+/* Perfectionism */
+
+position: absolute;
+width: 94px;
+height: 16px;
+left: 1244px;
+top: 628px;
+
+font-family: 'Geist Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+
+color: #FFFFFF;
+

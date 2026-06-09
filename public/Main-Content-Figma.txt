@@ -1,0 +1,113 @@
+/* Main Content */
+
+position: absolute;
+width: 598px;
+height: 500.81px;
+left: 418px;
+top: 290px;
+
+
+
+/* About (intro) */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 598px;
+height: 362px;
+left: 418px;
+top: 312px;
+
+
+
+/* As a second-year Product Design (UI/UX) student in college, I’ve been gradually upscaling myself in the age of AI. I can not only design static UI and prototype on Figma but utilize tools like Claude Code / Cursor to rapidly prototype and work closer to code. As a result, I’m better able to coordinate with the dev team. Working across brand identity, interactive web experiences, and product design systems, my work reflects a single core believe: that the best digital products and experiences come from someone who understands both the visual language and the technical constraints shaping them. This portfolio contains four projects across four different design/problem domains (graphic design, branding, logo design, design engineering, and product design). */
+
+position: absolute;
+width: 591px;
+height: 336px;
+left: 3px;
+top: 0px;
+
+font-family: 'Geist Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 21px;
+
+color: #FFFFFF;
+
+
+
+/* Top line */
+
+position: absolute;
+width: 591px;
+height: 0px;
+left: 418px;
+top: 290px;
+
+border: 2px solid #D1C6A8;
+transform: rotate(0.18deg);
+
+
+/* Line 3 */
+
+position: absolute;
+width: 591px;
+height: 0px;
+left: 418px;
+top: 788.9px;
+
+border: 2px solid #D1C6A8;
+transform: rotate(0.18deg);
+
+
+/* Line 6 */
+
+position: absolute;
+width: 591px;
+height: 0px;
+left: 418px;
+top: 755px;
+
+border: 2px solid #D1C6A8;
+transform: rotate(0.18deg);
+
+
+/* Last Updated */
+
+position: absolute;
+width: 188px;
+height: 16px;
+left: 421px;
+top: 714px;
+
+font-family: 'Geist Mono';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Interests line */
+
+position: absolute;
+width: 545px;
+height: 16px;
+left: 441px;
+top: 765px;
+
+font-family: 'Geist Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2em;
+
+color: #FFFFFF;
+
